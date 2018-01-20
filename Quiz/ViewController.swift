@@ -4,6 +4,7 @@
 //
 //  Created by Nicole Vavoules on 1/17/18.
 //  Copyright © 2018 Nicole Vavoules. All rights reserved.
+//  High Point University
 //
 
 import UIKit
